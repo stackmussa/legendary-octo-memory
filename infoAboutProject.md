@@ -1,0 +1,1 @@
+I was given this task as my semester project for my Object Oriented Programming Course, so I made a console based game, with manual 1v1 & 2v2 combat on console. I basically made a draft using SFML at first, then I shifted to console based. Using the principles of Object Oriented Programming for instance: Inheritence, Abstraction, Polymorphism, and File Handling. 
